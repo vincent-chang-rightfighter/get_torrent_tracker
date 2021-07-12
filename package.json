@@ -1,0 +1,15 @@
+{
+  "name": "get_torrent_js",
+  "version": "1.0.0",
+  "description": "get_torrent_tracker for windows tixati format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vincent Chang",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.8.2",
+    "jsdom": "^16.6.0"
+  }
+}
