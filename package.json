@@ -1,7 +1,7 @@
 {
   "name": "get_torrent_js",
   "version": "1.0.0",
-  "description": "get_torrent_tracker for windows tixati format",
+  "description": "get_torrent_tracker for tixati format",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
