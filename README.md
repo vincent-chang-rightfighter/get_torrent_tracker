@@ -65,7 +65,7 @@ open it.
 
 Just  `CTRL`  +  `A`  to select all
 
-And   `CRRL`  +  `C`  to paste it to [TIXATI](https://www.tixati.com/)
+And   `CRRL`  +  `C`  copy it to [TIXATI](https://www.tixati.com/) torrent tracker list .
 
 Then you could close the notepad , after notepad has been closed terminal would close and delete torrent_tracker.txt . 
 
